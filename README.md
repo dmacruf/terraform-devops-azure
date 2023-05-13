@@ -1,0 +1,1 @@
+labs do Terraform na AZURE.
