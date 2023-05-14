@@ -1,4 +1,4 @@
-ariable "location" {
+variable "location" {
  description = "variável que indica a região onde os recursos vão ser criados"
  type = string
  default = "West Europe"
