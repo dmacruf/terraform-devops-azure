@@ -17,7 +17,7 @@ resource "azurerm_storage_account" "macruf_storage_account" {
 }
 
 resource "azurerm_storage_container" "macruf_storage_container" {
- name                 = ""
+ name                 = "images"
  storage_account_name = "azurerm_storage_account.macruf_storage_account.name" 
 }
 
